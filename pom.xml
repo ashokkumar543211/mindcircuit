@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://44.203.74.79:8081/repository/b12-snapshot/</url>
+		    <url>http://52.91.169.126:8081/repository/b12-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.203.74.79:8081/repository/b12-release/</url>
+		    <url>http://52.91.169.126:8081/repository/b12-release//</url>
 		</repository>
   	</distributionManagement>
 	
